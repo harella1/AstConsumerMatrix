@@ -12,10 +12,12 @@
     <Name>AstConsumerMatrix</Name>
     <RootNamespace>AstConsumerMatrix</RootNamespace>
     <LaunchProvider>Standard Python launcher</LaunchProvider>
-    <CommandLineArguments>-i ..\websocket\server.py</CommandLineArguments>
+    <CommandLineArguments>-i "C:\Users\harel\Documents\GitRepos\AstConsumerMatrix\websocket\server.py"</CommandLineArguments>
     <EnableNativeCodeDebugging>False</EnableNativeCodeDebugging>
     <InterpreterId>Global|PythonCore|3.6</InterpreterId>
     <IsWindowsApplication>False</IsWindowsApplication>
+    <InterpreterPath>
+    </InterpreterPath>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
